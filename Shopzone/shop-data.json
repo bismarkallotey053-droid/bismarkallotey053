@@ -1,0 +1,63 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Samsung Galaxy S24",
+      "category": "Electronics",
+      "price": 4500,
+      "stock": 14,
+      "desc": "Latest Samsung flagship with AI features and stunning display.",
+      "emoji": "📱",
+      "image": ""
+    },
+    {
+      "id": 2,
+      "name": "Running Sneakers",
+      "category": "Sports",
+      "price": 320,
+      "stock": 50,
+      "desc": "Premium cushioned running shoes for all terrains. Lightweight and durable.",
+      "emoji": "👟",
+      "image": ""
+    },
+    {
+      "id": 3,
+      "name": "Wireless Earbuds",
+      "category": "Electronics",
+      "price": 280,
+      "stock": 30,
+      "desc": "True wireless earbuds with 24hr battery and active noise cancellation.",
+      "emoji": "🎧",
+      "image": ""
+    },
+    {
+      "id": 4,
+      "name": "Shea Butter Cream",
+      "category": "Health & Beauty",
+      "price": 45,
+      "stock": 100,
+      "desc": "Natural Ghana shea butter moisturizer for soft and radiant skin.",
+      "emoji": "🧴",
+      "image": ""
+    }
+  ],
+  "orders": [
+    {
+      "id": "TEST-001",
+      "productId": 1,
+      "productName": "Samsung Galaxy S24",
+      "category": "Electronics",
+      "qty": 1,
+      "unitPrice": 4500,
+      "total": 4500,
+      "customerName": "Test User",
+      "phone": "0244000000",
+      "address": "Kumasi",
+      "notes": "Test",
+      "date": "2026-06-07T02:31:08.4869302Z",
+      "status": "new"
+    }
+  ],
+  "customers": [],
+  "suppliers": []
+}
